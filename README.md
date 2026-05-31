@@ -1,5 +1,5 @@
-## Name: 
-## Register no: 
+## Name: SOLAI NACHIYAR M S
+## Register no: 212225080053
 
 # Ex-1:Conditional Statements in Python: Even or Odd Checker
 ## 🎯 Aim
