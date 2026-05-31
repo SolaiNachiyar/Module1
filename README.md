@@ -136,7 +136,8 @@ print(men_stepped_on_the_moon)
 ```
 ## Output
 
-<img width="1141" height="217" alt="image" src="https://github.com/user-attachments/assets/3c0d2fba-55cc-4a37-9442-f47f3d088134" />
+<img width="970" height="202" alt="image" src="https://github.com/user-attachments/assets/611eb097-db86-4cc7-ba91-a0279a88d244" />
+
 
 ## Result
 Thus, the program has been excecuted successfully.
